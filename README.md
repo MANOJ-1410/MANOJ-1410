@@ -1,6 +1,7 @@
+# <p align="center"><strong style="font-size: 100px;">Hi 👋, I'm Manoj C</strong></p><div align="left"> <img src="https://komarev.com/ghpvc/?username=MANOJ-1410&label=Profile%20views&color=0e75b6&style=flat" alt="Manoj C" /> </div>
+
 # 💫 About Me:
 🌱 Currently learning: D365 F&O, Python, X++, Microsoft Tools<br>👨‍💻 Current role: Associate-IT<br>📑 Resume: [My Resume](https://drive.google.com/file/d/1SVsNFS8V8VnGP0micW9bgytAGcGsYLAT/view?usp=drivesdk)<br>💻 All my projects: Available on GitHub<br>📫 Reach out: manoj.c1410@gmail.com<br>🌱 Always learning and improving my skills<br>🤝 Open to collaboration and open-source contributions
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-c1410) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manoj.c1410@gmail.com) 
